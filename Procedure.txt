@@ -1,0 +1,5 @@
+1. open database(neo4j)
+2. open folder(ngdb) and cmd in folder
+3. open myenv in cmd b through --->    .\myenv\Scripts\activate
+4. restart the server through ---> python -m uvicorn app.main:app --reload
+5. ctrl+click on ip shown
